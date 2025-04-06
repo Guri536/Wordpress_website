@@ -1,0 +1,8 @@
+{
+    "themes": [
+        "./themes/custom-themes"
+    ],
+    "mappings": {
+        "wp-content/themes/custom-themes": "./themes/custom-themes"
+    }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"main.0414983c6422c17e6673.hot-update.js","mappings":";;;;;;;;;;;;;;;;;;;AAA4C;AACxB;AAEpBA,iDAAQ,CAAC,CAAC","sources":["webpack://wordpress_website/./themes/custom-themes/assets/src/main.js"],"sourcesContent":["import domReady from '@wordpress/dom-ready';\r\nimport './main.css';\r\n\r\ndomReady()"],"names":["domReady"],"sourceRoot":""}
